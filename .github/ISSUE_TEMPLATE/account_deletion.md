@@ -1,9 +1,10 @@
 ---
 name: Account Deletion Request
 about: Request to delete your account from Logical Argumentation
-title: '[ACCOUNT DELETION REQUEST]'
-labels: account-deletion
+title: "[ACCOUNT DELETION REQUEST]"
+labels: ''
 assignees: azirgulis
+
 ---
 
 # Account Deletion Request Form
