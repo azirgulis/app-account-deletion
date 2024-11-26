@@ -1,6 +1,6 @@
 ---
 name: Account Deletion Request
-about: Request to delete your account from [Your App Name]
+about: Request to delete your account from Logical Argumentation
 title: '[ACCOUNT DELETION REQUEST]'
 labels: account-deletion
 assignees: azirgulis
