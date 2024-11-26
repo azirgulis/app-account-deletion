@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Account Deletion Request - Logical Argumentation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .container {
+            background: #f9f9f9;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .contact-info {
+            background: #fff;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Account Deletion Request</h1>
+        <p>To request deletion of your account from Logical Argumentation, please send an email to: arasmcz@gmail.com</p>
+        
+        <div class="contact-info">
+            <p><strong>Email:</strong> [YOUR-EMAIL-ADDRESS]</p>
+        </div>
+
+        <p>In your email, please include:</p>
+        <ul>
+            <li>The email address associated with your account</li>
+            <li>Subject line: "Account Deletion Request"</li>
+        </ul>
+
+        <p>Important information:</p>
+        <ul>
+            <li>Your request will be processed within 30 days</li>
+            <li>You will receive a confirmation email once your account has been deleted</li>
+            <li>Account deletion is permanent and cannot be undone</li>
+        </ul>
+    </div>
+</body>
+</html>
